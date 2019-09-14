@@ -1,0 +1,32 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [Items].[ArmorDetail].[InfusionSlots] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [Items].[ArmorDetail] (Table)
+       [Items].[Detail] (Table)
+     Create
+       [Items].[BackItemDetail] (Table)
+       [Items].[BagDetail] (Table)
+       [Items].[ConsumableDetail] (Table)
+       [Items].[ContainerDetail] (Table)
+       [Items].[GatheringToolDetail] (Table)
+       [Items].[InfusionSlot] (Table)
+       [Items].[FK_BackItemDetail_InfixUpgrade] (Foreign Key)
+       [Items].[FK_Detail_BackItemDetail] (Foreign Key)
+       [Items].[FK_Detail_BagDetail] (Foreign Key)
+       [Items].[FK_Detail_ConsumableDetail] (Foreign Key)
+       [Items].[FK_Detail_ContainerDetail] (Foreign Key)
+       [Items].[FK_Detail_GatheringToolDetail] (Foreign Key)
+
+** Supporting actions
+
+The column [Items].[ArmorDetail].[InfusionSlots] is being dropped, data loss could occur.
+

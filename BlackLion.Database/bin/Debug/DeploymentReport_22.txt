@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [Items].[ConsumableDetail] (User-Defined Table Type)
+     Create
+       [Items].[ConsumableDetail] (User-Defined Table Type)
+       [Items].[ArmorDetail] (User-Defined Table Type)
+       [Items].[InfixUpgrade] (User-Defined Table Type)
+       [Items].[UpdateArmorDetail] (Procedure)
+       [Items].[UpdateInfixUpgrade] (Procedure)
+
+** Supporting actions
+     Drop
+       [Items].[UpdateConsumableDetail] (Procedure)
+     Create
+       [Items].[UpdateConsumableDetail] (Procedure)

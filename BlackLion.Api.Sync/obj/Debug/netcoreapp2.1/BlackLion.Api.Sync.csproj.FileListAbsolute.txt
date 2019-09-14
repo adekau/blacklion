@@ -1,0 +1,14 @@
+E:\BlackLion\BlackLion.Api.Sync\bin\Debug\netcoreapp2.1\BlackLion.Api.Sync.deps.json
+E:\BlackLion\BlackLion.Api.Sync\bin\Debug\netcoreapp2.1\BlackLion.Api.Sync.runtimeconfig.json
+E:\BlackLion\BlackLion.Api.Sync\bin\Debug\netcoreapp2.1\BlackLion.Api.Sync.runtimeconfig.dev.json
+E:\BlackLion\BlackLion.Api.Sync\bin\Debug\netcoreapp2.1\BlackLion.Api.Sync.dll
+E:\BlackLion\BlackLion.Api.Sync\bin\Debug\netcoreapp2.1\BlackLion.Api.Sync.pdb
+E:\BlackLion\BlackLion.Api.Sync\obj\Debug\netcoreapp2.1\BlackLion.Api.Sync.csprojAssemblyReference.cache
+E:\BlackLion\BlackLion.Api.Sync\obj\Debug\netcoreapp2.1\BlackLion.Api.Sync.csproj.CoreCompileInputs.cache
+E:\BlackLion\BlackLion.Api.Sync\obj\Debug\netcoreapp2.1\BlackLion.Api.Sync.AssemblyInfoInputs.cache
+E:\BlackLion\BlackLion.Api.Sync\obj\Debug\netcoreapp2.1\BlackLion.Api.Sync.AssemblyInfo.cs
+E:\BlackLion\BlackLion.Api.Sync\obj\Debug\netcoreapp2.1\BlackLion.Api.Sync.dll
+E:\BlackLion\BlackLion.Api.Sync\obj\Debug\netcoreapp2.1\BlackLion.Api.Sync.pdb
+E:\BlackLion\BlackLion.Api.Sync\bin\Debug\netcoreapp2.1\BlackLion.Contracts.dll
+E:\BlackLion\BlackLion.Api.Sync\bin\Debug\netcoreapp2.1\BlackLion.Contracts.pdb
+E:\BlackLion\BlackLion.Api.Sync\obj\Debug\netcoreapp2.1\BlackLion.Api.Sync.csproj.CopyComplete

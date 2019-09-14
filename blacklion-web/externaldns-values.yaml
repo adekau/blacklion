@@ -1,0 +1,13 @@
+rbac:
+  create: true
+
+provider: digitalocean
+
+digitalocean:
+  apiToken: 5f0b40d2e1cfff05b0cb0a709a5dcd77d69f00ffb4b29068e663b95668b08f8d
+
+interval: "1m"
+
+policy: sync #or upsert-only
+
+# domainFilters: [ 'blacklion.exchange' ]

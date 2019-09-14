@@ -1,0 +1,10 @@
+E:\BlackLion.API\BlackLion\bin\Debug\netcoreapp2.1\BlackLion.API.deps.json
+E:\BlackLion.API\BlackLion\bin\Debug\netcoreapp2.1\BlackLion.API.runtimeconfig.json
+E:\BlackLion.API\BlackLion\bin\Debug\netcoreapp2.1\BlackLion.API.runtimeconfig.dev.json
+E:\BlackLion.API\BlackLion\bin\Debug\netcoreapp2.1\BlackLion.API.dll
+E:\BlackLion.API\BlackLion\bin\Debug\netcoreapp2.1\BlackLion.API.pdb
+E:\BlackLion.API\BlackLion\obj\Debug\netcoreapp2.1\BlackLion.API.csproj.CoreCompileInputs.cache
+E:\BlackLion.API\BlackLion\obj\Debug\netcoreapp2.1\BlackLion.API.AssemblyInfoInputs.cache
+E:\BlackLion.API\BlackLion\obj\Debug\netcoreapp2.1\BlackLion.API.AssemblyInfo.cs
+E:\BlackLion.API\BlackLion\obj\Debug\netcoreapp2.1\BlackLion.API.dll
+E:\BlackLion.API\BlackLion\obj\Debug\netcoreapp2.1\BlackLion.API.pdb

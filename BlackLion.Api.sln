@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlackLion.Contracts", "BlackLion.Contracts\BlackLion.Contracts.csproj", "{7FD3E691-5B08-46B1-B353-393C8F4CA800}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BlackLion.Database", "BlackLion.Database\BlackLion.Database.sqlproj", "{7223A126-7E55-4FD0-BC99-F266F26092EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlackLion.Web.Api", "BlackLion.Web.Api\BlackLion.Web.Api.csproj", "{336A3425-1E63-4016-ABAD-C69E531C621E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlackLion.Api.Sync", "BlackLion.Api.Sync\BlackLion.Api.Sync.csproj", "{6D3E1AC9-27EF-49BD-A4C4-3F0C74389CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackLion.Core", "BlackLion.Core\BlackLion.Core.csproj", "{97CFA9DA-F818-452C-B90A-2AEE140C0052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FD3E691-5B08-46B1-B353-393C8F4CA800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD3E691-5B08-46B1-B353-393C8F4CA800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD3E691-5B08-46B1-B353-393C8F4CA800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD3E691-5B08-46B1-B353-393C8F4CA800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7223A126-7E55-4FD0-BC99-F266F26092EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7223A126-7E55-4FD0-BC99-F266F26092EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7223A126-7E55-4FD0-BC99-F266F26092EA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7223A126-7E55-4FD0-BC99-F266F26092EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7223A126-7E55-4FD0-BC99-F266F26092EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7223A126-7E55-4FD0-BC99-F266F26092EA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{336A3425-1E63-4016-ABAD-C69E531C621E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336A3425-1E63-4016-ABAD-C69E531C621E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336A3425-1E63-4016-ABAD-C69E531C621E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336A3425-1E63-4016-ABAD-C69E531C621E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D3E1AC9-27EF-49BD-A4C4-3F0C74389CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3E1AC9-27EF-49BD-A4C4-3F0C74389CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3E1AC9-27EF-49BD-A4C4-3F0C74389CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3E1AC9-27EF-49BD-A4C4-3F0C74389CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97CFA9DA-F818-452C-B90A-2AEE140C0052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CFA9DA-F818-452C-B90A-2AEE140C0052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CFA9DA-F818-452C-B90A-2AEE140C0052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CFA9DA-F818-452C-B90A-2AEE140C0052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6796A40-8C84-46F8-98AF-43D373561266}
+	EndGlobalSection
+EndGlobal

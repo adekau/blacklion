@@ -1,0 +1,12 @@
+E:\BlackLion\BlackLion.Core\bin\Debug\netcoreapp2.1\BlackLion.Core.deps.json
+E:\BlackLion\BlackLion.Core\bin\Debug\netcoreapp2.1\BlackLion.Core.dll
+E:\BlackLion\BlackLion.Core\bin\Debug\netcoreapp2.1\BlackLion.Core.pdb
+E:\BlackLion\BlackLion.Core\bin\Debug\netcoreapp2.1\BlackLion.Contracts.dll
+E:\BlackLion\BlackLion.Core\bin\Debug\netcoreapp2.1\BlackLion.Contracts.pdb
+E:\BlackLion\BlackLion.Core\obj\Debug\netcoreapp2.1\BlackLion.Core.csprojAssemblyReference.cache
+E:\BlackLion\BlackLion.Core\obj\Debug\netcoreapp2.1\BlackLion.Core.csproj.CoreCompileInputs.cache
+E:\BlackLion\BlackLion.Core\obj\Debug\netcoreapp2.1\BlackLion.Core.AssemblyInfoInputs.cache
+E:\BlackLion\BlackLion.Core\obj\Debug\netcoreapp2.1\BlackLion.Core.AssemblyInfo.cs
+E:\BlackLion\BlackLion.Core\obj\Debug\netcoreapp2.1\BlackLion.Core.csproj.CopyComplete
+E:\BlackLion\BlackLion.Core\obj\Debug\netcoreapp2.1\BlackLion.Core.dll
+E:\BlackLion\BlackLion.Core\obj\Debug\netcoreapp2.1\BlackLion.Core.pdb

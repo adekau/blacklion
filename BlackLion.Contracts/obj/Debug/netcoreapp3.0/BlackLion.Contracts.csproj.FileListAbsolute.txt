@@ -1,0 +1,9 @@
+E:\BlackLion\BlackLion.Contracts\bin\Debug\netcoreapp3.0\BlackLion.Contracts.deps.json
+E:\BlackLion\BlackLion.Contracts\bin\Debug\netcoreapp3.0\BlackLion.Contracts.dll
+E:\BlackLion\BlackLion.Contracts\bin\Debug\netcoreapp3.0\BlackLion.Contracts.pdb
+E:\BlackLion\BlackLion.Contracts\obj\Debug\netcoreapp3.0\BlackLion.Contracts.csproj.CoreCompileInputs.cache
+E:\BlackLion\BlackLion.Contracts\obj\Debug\netcoreapp3.0\BlackLion.Contracts.AssemblyInfoInputs.cache
+E:\BlackLion\BlackLion.Contracts\obj\Debug\netcoreapp3.0\BlackLion.Contracts.AssemblyInfo.cs
+E:\BlackLion\BlackLion.Contracts\obj\Debug\netcoreapp3.0\BlackLion.Contracts.dll
+E:\BlackLion\BlackLion.Contracts\obj\Debug\netcoreapp3.0\BlackLion.Contracts.pdb
+E:\BlackLion\BlackLion.Contracts\obj\Debug\netcoreapp3.0\BlackLion.Contracts.csprojAssemblyReference.cache

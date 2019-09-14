@@ -1,0 +1,9 @@
+E:\BlackLion\BlackLion.Database\bin\Debug\BlackLion.Database.dacpac
+E:\BlackLion\BlackLion.Database\bin\Debug\BlackLion.Database.dll
+E:\BlackLion\BlackLion.Database\bin\Debug\BlackLion.Database.pdb
+E:\BlackLion\BlackLion.Database\obj\Debug\BlackLion.Database.dll
+E:\BlackLion\BlackLion.Database\obj\Debug\BlackLion.Database.pdb
+E:\BlackLion\BlackLion.Database\obj\Debug\Model.xml
+E:\BlackLion\BlackLion.Database\obj\Debug\refactor.xml
+E:\BlackLion\BlackLion.Database\obj\Debug\postdeploy.sql
+E:\BlackLion\BlackLion.Database\obj\Debug\predeploy.sql

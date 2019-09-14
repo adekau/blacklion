@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [Items].[BagDetail] (User-Defined Table Type)
+       [Items].[GizmoDetail] (Table)
+       [Items].[FK_Detail_GizmoDetail] (Foreign Key)
+       [Items].[UpdateBagDetails] (Procedure)
+       Permission (Permission)
+     Alter
+       [Items].[Detail] (Table)
+
+** Supporting actions

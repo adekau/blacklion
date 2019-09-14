@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [Items].[BagDetail] (User-Defined Table Type)
+     Create
+       [Items].[BagDetail] (User-Defined Table Type)
+
+** Supporting actions
+     Drop
+       [Items].[UpdateBagDetail] (Procedure)
+     Create
+       [Items].[UpdateBagDetail] (Procedure)

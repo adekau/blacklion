@@ -1,0 +1,51 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [Items] (Schema)
+       [Items].[BagDetail] (User-Defined Table Type)
+       [Items].[Detail] (User-Defined Table Type)
+       [Items].[Item] (User-Defined Table Type)
+       [Items].[InfixUpgrade] (User-Defined Table Type)
+       [Items].[ArmorDetail] (User-Defined Table Type)
+       [Items].[ConsumableDetail] (User-Defined Table Type)
+       [Items].[GizmoDetail] (Table)
+       [Items].[GatheringToolDetail] (Table)
+       [Items].[InfusionSlot] (Table)
+       [Items].[BagDetail] (Table)
+       [Items].[BackItemDetail] (Table)
+       [Items].[ConsumableDetail] (Table)
+       [Items].[ContainerDetail] (Table)
+       [Items].[InfixBuff] (Table)
+       [Items].[InfixAttribute] (Table)
+       [Items].[InfixUpgrade] (Table)
+       [Items].[ArmorDetail] (Table)
+       [Items].[Detail] (Table)
+       [Items].[Item] (Table)
+       [Items].[FK_BackItemDetail_InfixUpgrade] (Foreign Key)
+       [Items].[FK_InfixAttribute_InfixUpgrade] (Foreign Key)
+       [Items].[FK_InfixUpgrade_InfixBuff] (Foreign Key)
+       [Items].[FK_ArmorDetail_InfixUpgrade] (Foreign Key)
+       [Items].[FK_Detail_ArmorDetail] (Foreign Key)
+       [Items].[FK_Detail_BackItemDetail] (Foreign Key)
+       [Items].[FK_Detail_BagDetail] (Foreign Key)
+       [Items].[FK_Detail_ConsumableDetail] (Foreign Key)
+       [Items].[FK_Detail_ContainerDetail] (Foreign Key)
+       [Items].[FK_Detail_GatheringToolDetail] (Foreign Key)
+       [Items].[FK_Detail_GizmoDetail] (Foreign Key)
+       [Items].[FK_Item_Detail] (Foreign Key)
+       [Items].[UpdateBagDetail] (Procedure)
+       [Items].[UpdateConsumableDetail] (Procedure)
+       [Items].[UpdateItem] (Procedure)
+       [Items].[UpdateInfixUpgrade] (Procedure)
+       [Items].[UpdateArmorDetail] (Procedure)
+
+** Supporting actions
