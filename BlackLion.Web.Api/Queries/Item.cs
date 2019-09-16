@@ -1,13 +1,6 @@
-﻿using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using System;
-using System.Collections.Generic;
-using System.Runtime.Serialization;
-using System.Text;
-
-namespace BlackLion.Contracts.WebApi
+﻿namespace BlackLion.Web.Api.Queries
 {
-    public class Item : IContract
+    public class Item
     {
         public int ItemId { get; set; }
 

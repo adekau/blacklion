@@ -1,6 +1,0 @@
-E:\BlackLion\BlackLion.Web.Api\obj\Debug\netcoreapp3.0\BlackLion.Web.Api.csprojAssemblyReference.cache
-E:\BlackLion\BlackLion.Web.Api\obj\Debug\netcoreapp3.0\BlackLion.Web.Api.csproj.CoreCompileInputs.cache
-E:\BlackLion\BlackLion.Web.Api\obj\Debug\netcoreapp3.0\BlackLion.Web.Api.MvcApplicationPartsAssemblyInfo.cs
-E:\BlackLion\BlackLion.Web.Api\obj\Debug\netcoreapp3.0\BlackLion.Web.Api.MvcApplicationPartsAssemblyInfo.cache
-E:\BlackLion\BlackLion.Web.Api\obj\Debug\netcoreapp3.0\BlackLion.Web.Api.AssemblyInfoInputs.cache
-E:\BlackLion\BlackLion.Web.Api\obj\Debug\netcoreapp3.0\BlackLion.Web.Api.AssemblyInfo.cs

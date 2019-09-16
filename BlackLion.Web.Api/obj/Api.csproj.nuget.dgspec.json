@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BlackLion\\BlackLion.Web.Api\\BlackLion.Web.Api.csproj": {}
+    "E:\\BlackLion\\Api\\Api.csproj": {}
   },
   "projects": {
-    "E:\\BlackLion\\BlackLion.Web.Api\\BlackLion.Web.Api.csproj": {
+    "E:\\BlackLion\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BlackLion\\BlackLion.Web.Api\\BlackLion.Web.Api.csproj",
-        "projectName": "BlackLion.Web.Api",
-        "projectPath": "E:\\BlackLion\\BlackLion.Web.Api\\BlackLion.Web.Api.csproj",
+        "projectUniqueName": "E:\\BlackLion\\Api\\Api.csproj",
+        "projectName": "Api",
+        "projectPath": "E:\\BlackLion\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "E:\\BlackLion\\BlackLion.Web.Api\\obj\\",
+        "outputPath": "E:\\BlackLion\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
