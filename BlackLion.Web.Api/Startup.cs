@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using BlackLion.Contracts.WebApi;
 
 namespace BlackLion.Web.Api
 {
@@ -23,15 +24,13 @@ namespace BlackLion.Web.Api
             services
                 .AddGraphQL(sp => SchemaBuilder
                     .New()
-                    .AddQueryType<Query>()
+                    .AddQueryType<Item>()
                     .AddServices(sp)
-                    .Create())
-                .AddMvc()
-                .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+                    .Create());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app)
         {
             if (env.IsDevelopment())
             {
@@ -44,7 +43,6 @@ namespace BlackLion.Web.Api
 
             app.UseHttpsRedirection();
             app.UseGraphQL();
-            app.UseMvc();
         }
     }
 }
